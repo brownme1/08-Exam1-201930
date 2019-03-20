@@ -3,13 +3,13 @@ Exam 1, problem 1.
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         and Morgan Brown.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import rosegraphics as rg
 
 # -----------------------------------------------------------------------------
-# TODO: 2. Right-click on the  src  folder and
+# DONE: 2. Right-click on the  src  folder and
 #              Mark Directory as ... Sources Root,
 #          if you have not already done so.
 # -----------------------------------------------------------------------------
@@ -29,6 +29,11 @@ def run_test_problem1():
     print('--------------------------------------------------')
 
     # TWO tests on ONE window.
+    title = 'Tests 1 & 2 of problem 1: '
+    title += 'cyan/green fills, then black/magenta'
+    window = rg.RoseWindow(450, 350, title)
+
+    # Test 1:
     title = 'Tests 1 & 2 of problem 1: '
     title += 'cyan/green fills, then black/magenta'
     window = rg.RoseWindow(450, 350, title)
@@ -121,6 +126,16 @@ def problem1(circle, rectangle, color, length, window):
     # TODO: 3. Implement and test this function.  SEE THE PICTURES in the PDF!
     #          Tests have been written for you (above).
     # -------------------------------------------------------------------------
+
+    window
+
+    circle.
+
+    rectangle
+
+    color
+
+    length
 
 
 # -----------------------------------------------------------------------------

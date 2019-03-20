@@ -84,6 +84,8 @@ def problem4(point1, point2, n, window):
     #          Tests have been written for you (above).
     # IMPORTANT: For PARTIAL CREDIT, ignore the colors.
     # -------------------------------------------------------------------------
+    window = rg.RoseWindow
+
 
 
 # -----------------------------------------------------------------------------

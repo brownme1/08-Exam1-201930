@@ -198,6 +198,7 @@ def problem3a(a, b):
     #    **  For full credit you must appropriately
     #    **  use (call) the appropriate function(s) that are DEFINED ABOVE.
     ###########################################################################
+    if is_prime(n)
 
 
 def run_test_problem3b():
